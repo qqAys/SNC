@@ -1,4 +1,4 @@
-@staticmethod
+ @staticmethod
 def devices_list():
   check = subprocess.check_output('GETMAC /v /FO list', stderr=subprocess.STDOUT)
   device_info = check.decode('gbk')
