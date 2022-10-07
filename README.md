@@ -24,6 +24,6 @@ SNC是一款修改MAC地址和主板UUID的软件。
 
 我们将在您留下评论或发送邮件后的24小时内回复您。
 
-  [1]: http://dujiaoka.qqays.xyz
+  [1]: https://card.qqays.xyz
   [2]: http://yun.qqays.xyz/f/fed80a3030084f5997f4/
   [3]: mailto:admin@qqays.xyz
